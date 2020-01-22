@@ -12,7 +12,7 @@
 </head>
 <body>
 <form method="get" action="hello">
-    <input type = "text" value="Mysaurus" name="favDino">
+    <input type = "text" value="Myrosaurus" name="favDino">
     <input type = "submit" value="Submit " >
 
 </form>
